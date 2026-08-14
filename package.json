@@ -1,0 +1,16 @@
+{
+  "name": "rha-node-upsc-audit-01",
+  "version": "1.0.0",
+  "description": "RHA UPSC Audit Vault – Civil Services Reservation Context Gateway",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["rha", "upsc", "audit", "civic-research", "gateway", "node"],
+  "author": "fifthstateorgs",
+  "license": "MIT",
+  "config": {
+    "ENDPOINT_URI": "https://decoderha.pages.dev/",
+    "STATIC_PASSKEY": "RSRX-INDIA"
+  }
+}
