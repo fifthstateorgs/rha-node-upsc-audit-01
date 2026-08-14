@@ -1,5 +1,5 @@
 {
-  "name": "@fifthstateorgs/rha-node-upsc-audit-01",
+  "name": "fifthstateorgs/rha-node-upsc-audit-01",
   "version": "1.0.0",
   "description": "RHA UPSC Audit Vault – Civil Services Reservation Context Gateway",
   "main": "index.js",
